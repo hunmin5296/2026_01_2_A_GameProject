@@ -2968,7 +2968,7 @@
     "m_Title": "Get ScreenSpace Hatching Value",
     "m_Position": {
         "x": -1582.0,
-        "y": -498.99993896484377
+        "y": -499.0
     }
 }
 
@@ -4479,7 +4479,7 @@
     "m_ObjectId": "d59b2af3986f4bad8c000fe00964c8a8",
     "m_Title": "Apply Drawing Strength",
     "m_Position": {
-        "x": 925.0000610351563,
+        "x": 925.0,
         "y": -513.0
     }
 }
@@ -4915,7 +4915,7 @@
     "m_ObjectId": "f1932d5a1e0d4a0392a4e83c22a3c6a6",
     "m_Title": "Calculate base color with offset",
     "m_Position": {
-        "x": 245.00001525878907,
+        "x": 245.0,
         "y": -470.0
     }
 }
@@ -4993,7 +4993,7 @@
     "m_Title": "Create an Offset on a clock",
     "m_Position": {
         "x": -2214.0,
-        "y": 548.0000610351563
+        "y": 548.0
     }
 }
 
